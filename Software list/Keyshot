@@ -12,6 +12,7 @@
 - M 保存视角 P 打开热键显示 K 实时显示控制 H 满屏模式 F 环境贴图旋转 K键显示快捷菜单
 - shift+alt+左键 模型水平移动 shift+alt+中键 模型水平旋转 shift+alt+右键 模型比例缩放 s hift+alt+ctrl+中键 模型自由式旋转  shift+alt+ctrl+左键 模型垂直移动
 - 如有不满意可以右键move object 菜单里Reset的恢复
+
 ### keyshot的界面及功能介绍 
 	Materials:材质
 	Enviroment:环境贴图
