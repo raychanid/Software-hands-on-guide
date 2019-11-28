@@ -1,4 +1,4 @@
-gantt         
+```gantt         
        dateFormat  YYYY-MM-DD   
        title 使用mermaid语言定制甘特图
 
@@ -20,3 +20,4 @@ gantt
        描述甘特图语法               :active, a1, after des1, 3d
        完成甘特图实例1      :after a1  , 20h
        完成甘特图实例2    :doc1, after a1  , 48h
+```
